@@ -29,8 +29,10 @@ Simply run
 
 ```
 make
-./c8 TETRIS.ROM
+./c8 -rom breakout.ch8
 ```
+
+Use the numpad for inputting 0-9 and ABCDEF keys on your keyboard for the A-F inputs.
 
 ## Screenshots
 ![Screenshot](https://i.imgur.com/NcFekgI.png)
